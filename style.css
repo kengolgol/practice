@@ -90,6 +90,10 @@ section {
     margin-left: 30%;
 }
 
+.mainvisual a {
+    color: #333333 ;
+}
+    
 .mainvisual h2 {
     position: absolute;
     top: 30%;
@@ -123,7 +127,7 @@ section {
 }
 
 .greeting .contents figure {
-    width: 50px;
+    width: 50%;
 }
 
 .greeting .content {
