@@ -105,6 +105,11 @@ section {
     padding: 1rem;
 }
 
+.mainvisual h2 span {
+    color: orangered;
+    font-size: 6rem;
+}
+
 .bg1 {
     background: #e8e7e7;
     height: 700px;
