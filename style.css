@@ -92,6 +92,8 @@ section {
 
 .mainvisual a {
     color: #333333 ;
+    text-align: right ;
+    margin-right: 10px ;
 }
     
 .mainvisual h2 {
