@@ -174,8 +174,9 @@ section {
 
 .work ul li figure {
     margin: 0 auto;
-    width: 100%;
+    width: 400px;
     height: 400px;
+    object-fit: cover;
 }
 
 .news .content-wrappper {
