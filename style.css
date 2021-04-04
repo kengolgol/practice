@@ -174,11 +174,7 @@ section {
 
 .work ul li figure {
     margin: 0;
-}
-
-.work ul li img {
     height: 400px;
-    width: 400px;
 }
 
 .news .content-wrappper {
